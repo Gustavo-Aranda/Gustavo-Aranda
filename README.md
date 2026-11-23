@@ -22,7 +22,7 @@
 ## Languages
 
 - 🇧🇷 Portuguese | Native  
-- 🇺🇸 English | Advanced   
+- 🇺🇸 English | Intermediate (B2)   
 
 ## Hard Skill
 
