@@ -1,5 +1,6 @@
 # 💫 About Me:
-Olá! Sou o Gustavo Aranda, Analista DevOps Trainee e graduando em Análise e Desenvolvimento de Sistemas (Fatec), apaixonado por arquitetura em nuvem, automação de infraestrutura e desenvolvimento backend escalável.
+## Olá! Sou o Gustavo Aranda!<br>
+Analista DevOps Trainee e graduando em Análise e Desenvolvimento de Sistemas (Fatec), apaixonado por arquitetura em nuvem, automação de infraestrutura e desenvolvimento backend escalável.<br><br>
 🔭 Atualmente trabalhando em: Automação DevOps e infraestrutura cloud na AI/R (Compass UOL) alocado no Sem Parar.<br>    👯 Buscando colaborar em: Projetos cloud-native, Infraestrutura como Código (Terraform), pipelines de CI/CD e arquiteturas baseadas em microsserviços.<br>    🤝 Buscando ajuda com: Orquestração avançada com Kubernetes, observabilidade em sistemas distribuídos e otimização de testes automatizados E2E.<br>    🌱 Atualmente aprendendo: Padrões avançados de arquitetura na AWS, mensageria/streaming com Apache Kafka e engenharia de prompt aplicada à qualidade de código.<br>    💬 Me pergunte sobre: AWS (Lambda, ECS, Step Functions, DynamoDB), Terraform, GitHub Actions, Docker, C# (.NET), Python ou arquitetura limpa em APIs.<br>    ⚡ Curiosidade: Quando não estou automatizando pipelines ou montando circuitos de redstone no Minecraft, provavelmente estou fazendo trilha em alguma cachoeira, correndo ou jogando futebol com os amigos.
 
 
