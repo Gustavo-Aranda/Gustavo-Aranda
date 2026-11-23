@@ -1,8 +1,12 @@
+<a href=""><img src="https://img.shields.io/static/v1?label=Overview&message=Gustavo%20Aranda&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
+
 # About Me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Aranda&theme=onedark">
 
 - Born and living in **Mogi das Cruzes, SP**
 - Currently in the 6th semester of *Systems Analysis and Development* from **Mogi das Cruzes College of Technology (Fatec)**
+
+  
 
 ## Soft Skills
 
