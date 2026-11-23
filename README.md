@@ -4,7 +4,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Aranda&theme=onedark">
 
 - Born and living in **Mogi das Cruzes, SP**
-- Currently in the 6th semester of *Systems Analysis and Development* from **Mogi das Cruzes College of Technology (Fatec)**
+- Currently in the 6th semester of *Systems Analysis and Development* at **Fatec Mogi das Cruzes**
+- I’m currently working on DevOps at **AI/R (Compass UOL)** allocated to **Sem Parar**
+- Already worked on Cloud Engineer at **BRQ Digital Solutions** allocated to **Itaú Unibanco** (03/26 - 10/26)
 
   
 
